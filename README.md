@@ -28,7 +28,7 @@ Thank you.
 $ pip install -r requirements.txt
 ```
 #### Install ONNX, TensorRT
-Check details in README_Env.md
+Check details at [./README_Env.md](./README_Env.md)
 
 ### 2. Download the trained models
  
