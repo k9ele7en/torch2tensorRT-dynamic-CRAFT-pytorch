@@ -138,7 +138,7 @@ $ python test_driver.py
 4. torch2trt_dynamic:
 To install without compiling plugins, call the following
 ```
-git clone https://github.com/grimoire/torch2trt_dynamic.git torch2trt_dynamic
+git clone https://github.com/k9ele7en/torch2trt_dynamic.git torch2trt_dynamic
 cd torch2trt_dynamic
 python setup.py develop
 ```

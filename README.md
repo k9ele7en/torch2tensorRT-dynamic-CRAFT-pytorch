@@ -6,6 +6,9 @@ Official Pytorch implementation of CRAFT text detector | [Paper](https://arxiv.o
 
 ### Overview
 Implementation of convenient converter from Pytorch to Tensor RT directly for CRAFT text detector.
+This repo is only about converting Pytorch model into Tensor RT. For Tensor RT inference, check out:
+- Inference using Tensor RT standalone (https://github.com/k9ele7en/ONNX-TensorRT-Inference-CRAFT-pytorch)
+- Advance inference pipeline using NVIDIA Triton Server (https://github.com/k9ele7en/triton-tensorrt-CRAFT-pytorch)
 
 ### Author
 k9ele7en. Give 1 star of you find some value in this repo. <br>
