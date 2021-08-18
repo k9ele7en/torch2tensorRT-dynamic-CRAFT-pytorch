@@ -12,7 +12,6 @@ This repo is only about converting Pytorch model into Tensor RT. For Tensor RT i
 
 ### Author
 k9ele7en. Give 1 star if you find some value in this repo. <br>
-[Donate] nano_1q8aj68brbw88hira69z4r4hh9qi3oae6inmrpdtc7korpuuwj785zhdtc8i
 Thank you.
 ### License
 [MIT License] A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.
